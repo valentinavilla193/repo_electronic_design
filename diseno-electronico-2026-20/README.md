@@ -21,7 +21,7 @@ carpeta, con su propio código y su propio `README.md`.
 Cada carpeta de práctica incluye su propio `README.md` con el objetivo,
 el hardware/librerías usadas y las instrucciones de configuración.
 
-## ⚠️ Sobre las credenciales (WiFi / Ubidots)
+## !!! Sobre las credenciales (WiFi / Ubidots)
 
 El código de cada práctica **no incluye credenciales reales**. Los
 campos de SSID, password y token de Ubidots se dejaron como marcadores
@@ -64,7 +64,6 @@ diseno-electronico-2026-20/
 │       └── Practica1_TTGO_DHT11_Ubidots.ino
 ├── practica-2-mqtt-publish-subscribe/
 │   ├── README.md
-│   ├── evidencias/
 │   │   └── README.md
 │   └── Practica2_TTGO_DHT11_Ubidots_SW1_SW2/
 │       └── Practica2_TTGO_DHT11_Ubidots_SW1_SW2.ino
