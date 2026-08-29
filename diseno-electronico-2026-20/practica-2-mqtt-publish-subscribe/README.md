@@ -47,18 +47,11 @@ Abre el archivo `.ino` y reemplaza:
 | `UBIDOTS_TOKEN` | Tu token de la cuenta de Ubidots |
 
 > Estos valores se dejaron como marcadores de posición (placeholders) a
-> propósito: nunca se deben subir credenciales reales a un repositorio
-> público de GitHub.
+> propósito.
 
 ## Cómo abrir el proyecto
 
 Abre la carpeta `Practica2_TTGO_DHT11_Ubidots_SW1_SW2/` desde el Arduino
 IDE (el nombre de la carpeta coincide con el del `.ino`).
 
-## Entregable original de la práctica
 
-El profesor pidió un **PDF** con: código fuente, foto del montaje
-funcionando y captura del dashboard de Ubidots. Ese PDF es un entregable
-aparte (no forma parte del repositorio de Git); en la carpeta
-`evidencias/` de esta práctica se dejó una nota con instrucciones para
-cuando quieras armar ese documento.
