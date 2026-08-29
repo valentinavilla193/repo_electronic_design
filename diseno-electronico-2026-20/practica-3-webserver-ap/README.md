@@ -62,6 +62,5 @@ Abre el archivo `.ino` y reemplaza:
 ## Cómo abrir el proyecto
 
 Abre la carpeta `Practica3_TTGO_DHT11_Ubidots_AccessPoint/` desde el
-Arduino IDE, o ábrela como carpeta de proyecto en VS Code si trabajas
-con la extensión de Arduino / PlatformIO (tal como se trabajó esta
-práctica según el enunciado del profesor).
+Arduino IDE, o ábrela como carpeta de proyecto en VS Code si se trabaja
+con la extensión de Arduino / PlatformIO.
