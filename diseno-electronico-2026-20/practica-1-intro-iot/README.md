@@ -1,7 +1,6 @@
 # Práctica 1 — Intro a IoT con Ubidots
 
 **Curso:** Diseño Electrónico 2026-20
-**Plazo original:** 27 de julio
 
 ## Objetivo
 
@@ -42,8 +41,8 @@ Abre el archivo `.ino` y reemplaza:
 | `UBIDOTS_TOKEN` | Tu token de la cuenta de Ubidots |
 
 > Estos valores se dejaron como marcadores de posición (placeholders) a
-> propósito: nunca se deben subir credenciales reales a un repositorio
-> público de GitHub. Ver el `.gitignore` y el README principal del
+> propósito
+> Ver el `.gitignore` y el README principal del
 > repositorio para más detalle.
 
 ## Cómo abrir el proyecto
